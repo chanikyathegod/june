@@ -1,0 +1,11 @@
+---
+application:
+  name: "june"
+  project: "june"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-june"
+  routes:
+  - application_name: "june"
+    paths:
+    - "/*"
